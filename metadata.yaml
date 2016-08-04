@@ -1,0 +1,32 @@
+_repo: Queen-Victoria_1265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strachey, Lytton
+    alias: Strachey, Giles Lytton
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '576'
+    url: http://www.gutenberg.org/2009/agents/576
+    wikipedia: http://en.wikipedia.org/wiki/Lytton_Strachey
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Biographies
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+- !lcc 'DA'
+- !lcsh 'Queens -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- GITenberg
+title: Queen Victoria
+url: http://www.gutenberg.org/ebooks/1265
